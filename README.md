@@ -50,3 +50,9 @@ kept only because the KRX close itself confirms it.
 Wires cut 23 Nov 23:59 UTC. Everything in the image happened or was
 first reported on Monday 23 November 2026, except three Sunday items
 dated as Sunday in the strip (the COP31 collapse, the Alcaraz win and
+the Delta outage). Left out, with dates: the penny act (Fri), the Peru
+quake (Fri), the Gaza truck strike (Sat) and the Riemann proof (Fri).
+No event appears in both lists.
+
+
+
